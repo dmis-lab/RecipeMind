@@ -1,0 +1,11 @@
+#
+__pycache__/
+data/ver1/
+data/*.pkl
+data/*.csv
+.ipynb_checkpoints/
+*.pkl
+*.csv
+wandb/
+saved/*/*
+results/*.csv

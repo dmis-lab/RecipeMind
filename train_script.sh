@@ -1,0 +1,1 @@
+python train.py -pn RecipeMind -sn $1 --model_struct recipemind_cpmx_sum_cat --random_seed $2 --batch_size 1024 --dataset_index ver1 --dataset_name recipemind_mixed_sPMId02
