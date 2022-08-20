@@ -62,7 +62,7 @@ The jupyter notebook **RecipeMind Post Analysis.ipynb** contains the source code
 		<th>Email</th>
 	</tr>
 	<tr>
-		<td>Keonwoo Kim&dagger;</td>		
+		<td>Mogan Gim&dagger;</td>		
 		<td>Data Mining and Information Systems Lab,<br>Korea University, Seoul, South Korea</td>
 		<td>akim@korea.ac.kr</td>
 	</tr>
