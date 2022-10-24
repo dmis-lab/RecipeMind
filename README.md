@@ -1,4 +1,6 @@
 # RecipeMind: Guiding Ingredient Choices from Food Pairing to Recipe Completion using Cascaded Set Transformer
+* [paper - CIKM 2022 Proceedings](https://dl.acm.org/doi/abs/10.1145/3511808.3557092)
+* [demo - https://recipemind.korea.ac.kr](https://recipemind.korea.ac.kr)
 
 ## Abstract
 
