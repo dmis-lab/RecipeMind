@@ -99,3 +99,15 @@ The jupyter notebook **RecipeMind Post Analysis.ipynb** contains the source code
 - &dagger;: *Equal Contributors*
 - &ast;: *Corresponding Authors*
 
+## Citation
+```bibtex
+@inproceedings{gim2022recipemind,
+  title={RecipeMind: Guiding Ingredient Choices from Food Pairing to Recipe Completion using Cascaded Set Transformer},
+  author={Gim, Mogan and Choi, Donghee and Maruyama, Kana and Choi, Jihun and Kim, Hajung and Park, Donghyeon and Kang, Jaewoo},
+  booktitle={Proceedings of the 31st ACM International Conference on Information \& Knowledge Management},
+  pages={3092--3102},
+  year={2022}
+}
+```
+
+
